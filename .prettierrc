@@ -1,0 +1,13 @@
+{
+	"arrowParens": "avoid",
+	"bracketSameLine": false,
+	"htmlWhitespaceSensitivity": "ignore",
+	"useTabs": true,
+	"tabWidth": 2,
+	"semi": false,
+	"printWidth": 160,
+	"singleAttributePerLine": true,
+	"svelteSortOrder": "options-scripts-markup-styles",
+	"singleQuote": true,
+	"svelteAllowShorthand": true
+}
